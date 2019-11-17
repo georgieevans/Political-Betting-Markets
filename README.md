@@ -1,10 +1,5 @@
 # Political-Betting-Markets
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(tidyverse)
-```
-
 ## Example
 
 Load the scraping functions:
